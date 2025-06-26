@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hii <br>I Am Gokul
 
-https://komarev.com/ghpvc/?username=GOKUL-S-2006&color=red&style=for-the-badge
+![C](https://komarev.com/ghpvc/?username=GOKUL-S-2006&color=red&style=for-the-badge)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokul_durden) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokul-s-85137928b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColorwhite)](https://x.com/GOKULS582270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul.sathiyamurthi2006@gmail.com) 
 
