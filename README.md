@@ -1,14 +1,20 @@
 <div align="center">
 
-<!-- Batman Dark Knight Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=GOKUL%20S&fontSize=65&fontColor=f5c518&animation=fadeIn&fontAlignY=38&desc=The%20Dark%20Knight%20of%20Code%20%7C%20Backend%20Developer%20%7C%20DSA%20Vigilante&descAlignY=62&descSize=17&descColor=c0c0c0"/>
+<!-- Batman Header - using readme-typing-svg which is very reliable -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  &nbsp;GOKUL S&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
 
-<!-- Batman quote typing animation -->
+<h3>🦇 The Dark Knight of Code | Backend Developer | DSA Vigilante</h3>
+
+<!-- Typing animation - demolab is most reliable -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=%22It's+not+who+I+am+underneath...%22;%22...but+what+I+CODE+that+defines+me.%22;900%2B+DSA+Problems+Solved+%F0%9F%A6%87;500%2B+Day+LeetCode+Streak+%E2%9A%A1;LeetCode+Rating+1667+%7C+Top+12%25+Globally;Backend+Dev+%7C+Node.js+%7C+Spring+Boot;The+Night+is+Darkest+Before+the+Deploy+%F0%9F%8C%91" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=GOKUL-S-2006&color=f5c518&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
@@ -18,7 +24,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="280"/>
 
 ## 🦇 The Dark Knight's Dossier
 
@@ -33,6 +39,8 @@ currently   : Learning Spring Boot & System Programming
 open_to     : SWE Internships & Roles (2026)
 motto       : "The night is darkest before the deploy."
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -71,6 +79,7 @@ motto       : "The night is darkest before the deploy."
 
 <br/>
 
+<!-- GitHub Trophies - very reliable -->
 <img src="https://github-profile-trophy.vercel.app/?username=GOKUL-S-2006&theme=darkhub&no-frame=true&margin-w=8&column=7"/>
 
 </div>
@@ -86,7 +95,7 @@ motto       : "The night is darkest before the deploy."
 ### 🏘️ NeighbourHub
 **AI-Powered Community Reporting App**
 
-A full-stack mobile platform where citizens report civic issues — garbage dumps, road damage, infrastructure failures — with AI auto-classification.
+Full-stack mobile platform for reporting civic issues with AI auto-classification.
 
 - 🤖 AI image analysis classifies complaints
 - 🔐 JWT Auth + admin moderation panel
@@ -102,11 +111,11 @@ A full-stack mobile platform where citizens report civic issues — garbage dump
 ### 📅 Eventify
 **Automated Email → Calendar Tool**
 
-Extracts placement events from unread emails and auto-generates `.ics` calendar files and summary reports via cron jobs.
+Extracts placement events from emails and auto-generates `.ics` calendar files.
 
 - 📧 IMAP-based unread mail scraping
 - 📆 Auto `.ics` calendar generation
-- ⏰ Scheduled via cron + MongoDB storage
+- ⏰ Cron job scheduling + MongoDB
 
 `Node.js` `IMAP` `MongoDB` `Cron` `JavaScript`
 
@@ -120,7 +129,7 @@ Extracts placement events from unread emails and auto-generates `.ics` calendar 
 ### 🎬 CinesPulse
 **Movie Review & Discovery Platform**
 
-Responsive movie browsing with dynamic posters, trailers, and ratings powered by a movie REST API.
+Responsive movie browsing with dynamic posters, trailers, and ratings.
 
 - 🎥 Live movie data via REST API
 - 🔍 Smart search & filters
@@ -151,17 +160,31 @@ Stay tuned, Gotham.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKUL-S-2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=f5c518&icon_color=f5c518&text_color=c0c0c0&ring_color=f5c518"/>
+<!-- github-readme-stats vercel - most stable option -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKUL-S-2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=f5c518&icon_color=f5c518&text_color=c0c0c0"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKUL-S-2006&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5c518&text_color=c0c0c0"/>
 
-<br/>
+</div>
 
-<img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=GOKUL-S-2006&theme=dark&hide_border=true&background=0d0d0d&stroke=f5c518&ring=f5c518&fire=ff4444&currStreakLabel=f5c518&sideLabels=c0c0c0&dates=888888"/>
+---
 
-<br/><br/>
+## 🔥 Streak Stats
 
-<!-- Contribution Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GOKUL-S-2006&theme=github-compact&bg_color=0d0d0d&color=f5c518&line=f5c518&point=ffffff&area=true&hide_border=true&area_color=1a1a2e"/>
+<div align="center">
+
+<!-- Using git.io/streak-stats - most reliable streak provider -->
+<img src="https://streak-stats.demolab.com?user=GOKUL-S-2006&theme=dark&hide_border=true&background=0d0d0d&stroke=f5c518&ring=f5c518&fire=ff4444&currStreakLabel=f5c518&sideLabels=c0c0c0&dates=888888"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<!-- github-readme-activity-graph - stable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOKUL-S-2006&bg_color=0d0d0d&color=f5c518&line=f5c518&point=ffffff&area=true&hide_border=true&area_color=1a1a2e"/>
 
 </div>
 
@@ -170,9 +193,11 @@ Stay tuned, Gotham.
 ## 🐍 Gotham's Snake Eats My Contributions
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/GOKUL-S-2006/GOKUL-S-2006/output/github-contribution-grid-snake-dark.svg"/>
 
-> ⚙️ *Enable GitHub Actions with the snake workflow to activate this.*
+> ⚙️ *Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your repo to activate the snake.*
+
 </div>
 
 ---
@@ -226,10 +251,6 @@ Open Source             ███████░░░░░░ 60%  — Contrib
 
 <br/><br/>
 
-*"I am vengeance. I am the night. I am... pushing to main."* 🦇
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:000000&height=130&section=footer&fontColor=f5c518"/>
+> *"I am vengeance. I am the night. I am... pushing to main."* 🦇
 
 </div>
