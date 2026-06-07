@@ -1,21 +1,205 @@
-# 💫 About Me:
-Hii <br>I Am Gokul
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Gokul
 
-![C](https://komarev.com/ghpvc/?username=GOKUL-S-2006&color=red&style=for-the-badge)
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokul_durden) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokul-s-85137928b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColorwhite)](https://x.com/GOKULS582270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul.sathiyamurthi2006@gmail.com) 
+<h3 align="center">🚀 Software Engineer in Progress | Java Developer | Backend Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GOKUL-S-2006&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GOKUL-S-2006&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GOKUL-S-2006&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Developer;900%2B+DSA+Problems+Solved;LeetCode+Rating+1667;500%2B+Day+LeetCode+Streak;Backend+Developer;Spring+Boot+Learner;Open+Source+Contributor" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GOKUL-S-2006&limit=5&theme=default&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GOKUL-S-2006&style=for-the-badge&color=blueviolet" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GOKUL-S-2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+## 💫 About Me
+
+🎓 Computer Science Student at **VIT**
+
+📈 CGPA: **8.76 / 10**
+
+🔥 **900+ DSA Problems Solved**
+
+🏆 **LeetCode Rating: 1667 (Max 1737)**
+
+⚡ **500+ Day LeetCode Streak**
+
+💻 Passionate about:
+
+* Backend Development
+* System Programming
+* Software Engineering
+* Full Stack Development
+* Open Source
+
+🌱 Currently Learning:
+
+* Spring Boot
+* Operating Systems
+* Advanced C++
+* System Programming
+* Cloud Technologies
+
+🎯 Goal:
+Build scalable software systems and become a strong backend engineer.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/GOKUL-S-2006">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/gokul-s-85137928b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/gokul_durden">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:gokul.sathiyamurthi2006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,html,css,react,nodejs,express,mongodb,mysql,firebase,docker,git,github,linux,vscode,postman" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+<img src="https://img.shields.io/badge/LeetCode-1667_Rating-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/DSA-900%2B_Problems-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streak-500%2B_Days-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CGPA-8.76-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Oracle-OCI_Certified-red?style=for-the-badge&logo=oracle"/>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏘️ NeighbourHub
+
+AI-powered community reporting platform for infrastructure complaints.
+
+**Stack:** React Native • Expo • Node.js • Express.js • MongoDB • JWT
+
+---
+
+### 📅 Eventify
+
+Automates placement-event tracking from emails and generates calendar events.
+
+**Stack:** Node.js • IMAP • MongoDB • Cron Jobs
+
+---
+
+### 🎬 CinesPulse
+
+Movie review and discovery platform with REST API integration.
+
+**Stack:** HTML • JavaScript • Tailwind CSS • REST APIs
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GOKUL-S-2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKUL-S-2006&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GOKUL-S-2006&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOKUL-S-2006&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GOKUL-S-2006&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions and add the Snake workflow to make this work.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/GOKUL-S-2006/GOKUL-S-2006/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🚀 Current Learning Journey
+
+```text
+Java & Spring Boot      ██████████░░ 80%
+Data Structures         ███████████░ 90%
+Backend Development     █████████░░░ 75%
+Operating Systems       ████████░░░░ 70%
+System Programming      ███████░░░░░ 65%
+Open Source             ██████░░░░░░ 60%
+Cloud Computing         ██████░░░░░░ 60%
+```
+
+---
+
+# 💭 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# ☕ Fun Facts
+
+```yaml
+Name: Gokul
+College: VIT
+Favourite Language: Java
+Learning: Spring Boot & System Programming
+Goal: Become a Software Engineer
+Hobby: Solving DSA Problems
+Current Streak: 500+ Days
+```
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+
+Always open to collaboration, learning, and building impactful software.
+
+</p>
