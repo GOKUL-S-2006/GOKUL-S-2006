@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>🦇 GOKUL S 🦇</h1>
-<h3>The Dark Knight of Code</h3>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:f5c518&height=200&section=header&text=GOKUL%20S&fontSize=60&fontColor=f5c518&animation=fadeIn&fontAlignY=38&desc=The%20Dark%20Knight%20of%20Code&descAlignY=60&descSize=20&descColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=F5C518&center=true&vCenter=true&width=700&lines=The+Dark+Knight+of+Code+%F0%9F%A6%87;900%2B+DSA+Problems+Solved;LeetCode+Rating+1667+%7C+Top+12%25+Globally;500%2B+Day+Streak+%E2%80%94+No+Days+Off;Backend+Dev+%7C+Node.js+%7C+Spring+Boot;The+Night+is+Darkest+Before+the+Deploy)](https://git.io/typing-svg)
 
@@ -13,7 +12,6 @@
 ### 🦇 *"It's not who I am underneath... but what I CODE that defines me."* 🦇
 
 </div>
-
 
 
 ## 🦇 The Dark Knight's Dossier
