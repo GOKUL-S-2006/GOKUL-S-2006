@@ -1,14 +1,13 @@
 <!-- BATMAN THEME - GOKUL S -->
 
 <div align="center">
-
 ```
-██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗  ██║
-██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗ ██║
-██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██╔══██║██║╚██╗██║
-██████╔╝██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+ ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗
+██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║
+██║  ███╗██║   ██║█████╔╝ ██║   ██║██║
+██║   ██║██║   ██║██╔═██╗ ██║   ██║██║
+╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
 ### 🦇 *"It's not who I am underneath... but what I CODE that defines me."* 🦇
@@ -189,13 +188,13 @@ Stay tuned, Gotham. 🦇
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — The Surveillance Room
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKUL-S-2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=f5c518&icon_color=f5c518&text_color=c0c0c0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKUL-S-2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=f5c518&icon_color=f5c518&text_color=c0c0c0&rank_icon=github&cache_seconds=1800"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKUL-S-2006&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5c518&text_color=c0c0c0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKUL-S-2006&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5c518&text_color=c0c0c0&cache_seconds=1800"/>
 
 </div>
 
@@ -226,7 +225,7 @@ Stay tuned, Gotham. 🦇
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GOKUL-S-2006&theme=darkhub&no-frame=true&margin-w=8&column=7"/>
+<img src="https://trophy.benkou.dev/?username=GOKUL-S-2006&theme=darkhub&no-frame=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -282,15 +281,16 @@ Open Source             ████████░░░░░░  60%   Contri
 <br/>
 
 ```
- ______        __
-/      \      /  |
-$$$$$$  |     $$ |
-$$ |__$$ |    $$ |
-$$    $$ |    $$ |
-$$$$$$$$ |    $$ |
-$$ |  $$ |    $$ |
-$$ |  $$ |    $$ |
-$$/   $$/     $$/
+       _,    _   _    ,_
+  .o888P     Y8o8Y     Y888o.
+ d88888      88888      88888b
+d888888b_  _d88888b_  _d888888b
+8888888888888888888888888888888
+8888888888888888888888888888888
+YJGS8P"Y888P"Y888P"Y888P"Y8888P
+ Y888   '8'   Y8P   '8'   888Y
+  '8o          V          o8'
+    `                     `
 
 "I am vengeance. I am the night. I am... pushing to main." 🦇
 ```
