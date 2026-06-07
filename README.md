@@ -1,28 +1,20 @@
-<!-- BATMAN THEME - GOKUL S -->
-
 <div align="center">
- 
-██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗
-██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║
-██║  ███╗██║   ██║█████╔╝ ██║   ██║██║
-██║   ██║██║   ██║██╔═██╗ ██║   ██║██║
-╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
-### 🦇 *"It's not who I am underneath... but what I CODE that defines me."* 🦇
+<h1>🦇 GOKUL S 🦇</h1>
+<h3>The Dark Knight of Code</h3>
 
-</div>
-<!-- Typing SVG - demolab, most reliable -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=F5C518&center=true&vCenter=true&width=700&lines=The+Dark+Knight+of+Code+%F0%9F%A6%87;900%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F;LeetCode+Rating+1667+%7C+Top+12%25+Globally;500%2B+Day+Streak+%E2%80%94+No+Days+Off+%F0%9F%94%A5;Backend+Dev+%7C+Node.js+%7C+Spring+Boot;The+Night+is+Darkest+Before+the+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=F5C518&center=true&vCenter=true&width=700&lines=The+Dark+Knight+of+Code+%F0%9F%A6%87;900%2B+DSA+Problems+Solved;LeetCode+Rating+1667+%7C+Top+12%25+Globally;500%2B+Day+Streak+%E2%80%94+No+Days+Off;Backend+Dev+%7C+Node.js+%7C+Spring+Boot;The+Night+is+Darkest+Before+the+Deploy)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GOKUL-S-2006&color=f5c518&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/GOKUL-S-2006?style=for-the-badge&color=f5c518&labelColor=0d0d0d&logo=github&label=FOLLOWERS)
 
+### 🦇 *"It's not who I am underneath... but what I CODE that defines me."* 🦇
+
 </div>
 
----
+
 
 ## 🦇 The Dark Knight's Dossier
 
